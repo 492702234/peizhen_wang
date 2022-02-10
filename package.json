@@ -22,7 +22,7 @@
     "jquery": "^3.5.1",
     "less": "^3.11.1",
     "less-loader": "^5.0.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^4.0.0",
     "style-loader": "^1.2.1",
     "url-loader": "^4.1.0",
